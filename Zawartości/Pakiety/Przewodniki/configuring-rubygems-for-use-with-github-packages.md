@@ -136,12 +136,12 @@ You can use gems from {% data variables.product.prodname_registry %} much like y
   source "https://rubygems.org"
 
   gem "rails"
-  gem "GEM NAME"
+  gem "GEM rubyGENESIS"
   ```
 
 4. Install the package:
   ```shell
-  $ gem install octo-gem --version "0.1.1"
+  $ gem install octo-gem --version "1.1.1"
   ```
 
 ### Further reading
